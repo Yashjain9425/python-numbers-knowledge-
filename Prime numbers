@@ -1,0 +1,48 @@
+#numbers knowledge
+while(True):
+	inp=int(input("Enter any prime number between 100-150 : "))
+	if (inp==101):
+		print("          congratulate you enter the number")
+		print("                       \U0001F600\U0001F600")
+		break
+	elif(inp==103):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==107):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==109):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==113):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==127):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==131):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==137):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==139):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+	elif(inp==149):
+			print("          congratulate you enter the number")
+			print("                       \U0001F600\U0001F600")
+			break
+		
+	else:
+		print("                 try again!!")
+		print("                    \U0001F612\U0001F612")
+		continue
